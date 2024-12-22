@@ -71,7 +71,7 @@ Feel free to submit issues and pull requests.
 
 ## License
 
-MIT License
+BSD 3-Clause "New" or "Revised" License
 
 ## Author
 
