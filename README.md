@@ -74,5 +74,5 @@ Feel free to submit issues and pull requests.
 BSD 3-Clause "New" or "Revised" License
 
 ## Author
-
+Have fun with this project!
 Robin Kluit
